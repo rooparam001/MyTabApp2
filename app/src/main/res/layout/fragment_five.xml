@@ -19,6 +19,11 @@
         android:text="New Text View Added"
         android:textSize="35dp"/>
 
-    <!--COMMENT-->
-    <!--Comment @-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="New Text two View Added"
+        android:gravity="bottom"
+        android:textSize="35dp"/>
+
 </FrameLayout>
