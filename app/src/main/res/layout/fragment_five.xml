@@ -18,4 +18,6 @@
         android:layout_height="match_parent"
         android:text="New Text View Added"
         android:textSize="35dp"/>
+
+    <!--COMMENT-->
 </FrameLayout>
